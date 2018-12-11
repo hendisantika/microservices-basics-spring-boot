@@ -9,7 +9,7 @@ apply plugin: 'eclipse'
 
 buildscript {
 	project.ext {
-         springBootVersion = '1.5.17.RELEASE'
+         springBootVersion = '1.5.18.RELEASE'
          jarName = 'basic-webservice-registry'
          versionName = '0.0.1'
          gradleDockerVersion = '1.2'
